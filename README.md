@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**MeriexDev/MeriexDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm MeriexDev, a programmer based in the Philippines.
 
-Here are some ideas to get you started:
+I'm currently learning Front-end development that includes HTML, CSS, and JavaScript.
+I can also do Figma for UI designs, I am not that good for now but I am learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a new profile where I'll be uploading my progress and small projects that will help me with my career in the future. Everything I will do are going to be original and no copy/paste templates.
+
+## Tools
+* HTML, CSS, JavaScript
+* Java, C#, Python
+
+## About me
+* I am a second year IT student from STI.
+* I'm a morning person and can stay up very late if necessary.
+* I love learning and applying what I learned to my future projects.
